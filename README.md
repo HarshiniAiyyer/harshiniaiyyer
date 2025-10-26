@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harshini!</h1>
-<h3 align="center">A data scientist and AI Engineer!</h3>
+<h1 align="center">Hi 👋, I'm Harshini!  </h1>
+<br>
+<h3 align="center">I am a data scientist who handles projects related to data processing, NLP, time series and generative AI. </h3>
+<br>
 
 
+<h3 align="left"> About Me </h3>
 
 - 🔭 I’m currently working on **AI Engineering for Knowledge Graphs.**
 
