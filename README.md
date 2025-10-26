@@ -21,38 +21,60 @@
 - ⚡ Fun fact - **I like the smell of new notebooks.**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshini-a-29870b342/" target="blank" style="margin-right: 20px;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshini-a-29870b342/" height="30" width="40" />
-</a>
+<!-- 🔗 CONNECT WITH ME -->
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <style>
+    .social-icon, .tech-icon {
+      transition: transform 0.3s ease, filter 0.3s ease;
+      margin: 8px;
+      height: 40px;
+      filter: brightness(0.95);
+    }
+    .social-icon:hover, .tech-icon:hover {
+      transform: scale(1.15);
+      filter: brightness(1.3) drop-shadow(0 0 8px rgba(255,255,255,0.4));
+    }
+    .linkedin:hover {
+      filter: brightness(1.3) drop-shadow(0 0 8px rgba(10,102,194,0.8));
+    }
+  </style>
+
+  <a href="https://www.linkedin.com/in/harshini-a-29870b342/" target="_blank" rel="noreferrer">
+    <img class="social-icon linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+  </a>
 </p>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+
+<br>
+
+<!-- ⚙️ LANGUAGES AND TOOLS -->
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana"/></a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop"/></a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3js"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp"/></a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch"/></a>
+
 </p>
-<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiniaiyyer&show_icons=true&locale=en&layout=compact" alt="harshiniaiyyer" /></p>
 
 
