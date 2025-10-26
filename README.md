@@ -25,7 +25,7 @@
 
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> ✏️ Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshini-a-29870b342/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
@@ -33,7 +33,7 @@
 </p>
 <br/>
 <!-- ⚙️ LANGUAGES AND TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 My Toolbox </h3>
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/></a>
   <img width="8"/>
