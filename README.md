@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshini!  </h1>
+<img title="a title" alt="Alt text" src="/images/boo.svg">
 <br>
 <h2 align="center">I am a data scientist who handles projects related to NLP, time series and generative AI. </h2>
 <br>
