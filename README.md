@@ -1,16 +1,18 @@
-<img align="center" title="a title" alt="Alt text" src="/images/your_cool_intro (1).gif">
+<p align="center">
+  <img src="/images/your_cool_intro (1).gif" alt="Alt text" title="a title">
+</p>
 <br>
-<h2 align="center">Data Scientist well versed in Machine Learning & AI stuff. </h2>
+<h2 align="center">📊 Data Science, Machine Learning, GenAI and everything else.</h2>
 <br>
 
 
 <h2 align="left"> About Me </h2>
 
-- 🔭 I’m currently working on **AI Engineering for Knowledge Graphs.**
+- 🔭 I work on **AI Engineering for Knowledge Graphs.**
 
-- 🌱 I’m currently learning **RLHF and Backend Development**.
+- 🌱 I’m learning **RLHF and Backend Development**.
 
-- 👯 I am working on [an AI-powered forex arbitrage detector](https://github.com/HarshiniAiyyer/ForeXplorer). Inspired by graph theory.
+- 👯 My latest WIP is [an AI-powered forex arbitrage detector](https://github.com/HarshiniAiyyer/ForeXplorer). Inspired by graph theory.
 
 - 💬 Ask me about **anything casual or tech, or just life.**
 
@@ -18,7 +20,7 @@
 
 - 🌱 Take a look at my [resume](https://drive.google.com/file/d/1oOz3REkyNWMQpeHsvHV9VtN_EfC3mKWt/view?usp=sharing) here.
 
-- ⚡ Fun fact - **I like the smell of new notebooks.**
+- ⚡ Wanna know a fun fact?  **I like the smell of new notebooks.**
 
 <br/>
 
