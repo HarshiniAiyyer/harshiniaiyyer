@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshini!  </h1>
 <br>
-<h2 align="center">I am a data scientist who handles projects related to data processing, NLP, time series and generative AI. </h2>
+<h2 align="center">I am a data scientist who handles projects related to NLP, time series and generative AI. </h2>
 <br>
 
 <img title="a title" alt="Alt text" src="/images/elephant.png">
@@ -49,8 +49,6 @@
   <img width="8"/>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>
   <img width="8"/>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/></a>
-  <img width="8"/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/></a>
   <img width="8"/>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/></a>
@@ -63,15 +61,11 @@
   <img width="8"/>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/></a>
   <img width="8"/>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="45" height="45"/></a>
-  <img width="8"/>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="45" height="45"/></a>
-  <img width="8"/>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3js" width="45" height="45"/></a>
   <img width="8"/>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/></a>
   <img width="8"/>
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="45" height="45"/></a>
+ </a>
 </p>
 <br/>
 
