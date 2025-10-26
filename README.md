@@ -1,10 +1,10 @@
-<img title="a title" alt="Alt text" src="/images/boo.svg">
+<img align="center" title="a title" alt="Alt text" src="/images/your_cool_intro (1).gif">
 <br>
-<h2 align="center">I am a data scientist who handles projects related to NLP, time series and generative AI. </h2>
+<h2 align="center">Data Scientist well versed in Machine Learning & AI stuff. </h2>
 <br>
 
 
-<h3 align="left"> About Me </h3>
+<h2 align="left"> About Me </h2>
 
 - 🔭 I’m currently working on **AI Engineering for Knowledge Graphs.**
 
