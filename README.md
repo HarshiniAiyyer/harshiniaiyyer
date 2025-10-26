@@ -29,7 +29,7 @@
 <h2 align="left"> ✏️ Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshini-a-29870b342/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
 </a>
 </p>
 <br/>
@@ -67,7 +67,7 @@
 </p>
 <br/>
 
-<h2 align="left"> Stats </h2>
+<h2 align="cleft"> Stats </h2>
 <br>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiniaiyyer&show_icons=true&locale=en&layout=compact" alt="harshiniaiyyer" /></p>
 
