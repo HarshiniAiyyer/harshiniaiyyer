@@ -82,6 +82,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiniaiyyer&show_icons=true&locale=en&layout=compact" alt="harshiniaiyyer" /></p>
 
 
-![snake gif](https://github.com/HarshiniAiyyer/HarshiniAiyyer/blob/output/github-snake-dark.svg)
 
 
