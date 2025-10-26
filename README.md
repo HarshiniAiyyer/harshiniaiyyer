@@ -22,10 +22,19 @@
 
 - ⚡ Wanna know a fun fact?  **I like the smell of new notebooks.**
 
-<br/>
+<br>
+
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshiniAiyyer&repo=Kotori.ai&bg_color=0d1116&title_color=ffffff&text_color=ffffff&icon_color=007ec6)](https://github.com/HarshiniAiyyer/Kotori.ai)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshiniAiyyer&repo=ForensicOps&bg_color=0d1116&title_color=ffffff&text_color=ffffff&icon_color=007ec6)](https://github.com/HarshiniAiyyer/ForensicOps)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshiniAiyyer&repo=GmOn&bg_color=0d1116&title_color=ffffff&text_color=ffffff&icon_color=007ec6)](https://github.com/HarshiniAiyyer/GmOn)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshiniAiyyer&repo=ForeXplorer&bg_color=0d1116&title_color=ffffff&text_color=ffffff&icon_color=007ec6)](https://github.com/HarshiniAiyyer/ForeXplorer)
 
 
-<br/>
 <h2 align="left"> ✏️ Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshini-a-29870b342/" target="blank">
