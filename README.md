@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshini!  </h1>
 <br>
-<h3 align="center">I am a data scientist who handles projects related to data processing, NLP, time series and generative AI. </h3>
+<h2 align="center">I am a data scientist who handles projects related to data processing, NLP, time series and generative AI. </h2>
 <br>
 
 <img title="a title" alt="Alt text" src="/images/elephant.png">
