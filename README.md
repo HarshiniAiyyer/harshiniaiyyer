@@ -3,7 +3,7 @@
 <h3 align="center">I am a data scientist who handles projects related to data processing, NLP, time series and generative AI. </h3>
 <br>
 
-
+<img title="a title" alt="Alt text" src="/images/elephant.png">
 
 <h3 align="left"> About Me </h3>
 
