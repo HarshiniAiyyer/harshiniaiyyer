@@ -79,10 +79,7 @@
 
 <h2 align="cleft"> Stats </h2>
 <br>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiniaiyyer&show_icons=true&locale=en&layout=compact" alt="harshiniaiyyer" /></p>
-
-<br>
-![snake gif](https://github.com/HarshiniAiyyer/HarshiniAiyyer/blob/output/github-snake-dark.svg)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiniaiyyer&show_icons=true&locale=en&layout=compact" alt="harshiniaiyyer" /></p></br>
 
 
 
