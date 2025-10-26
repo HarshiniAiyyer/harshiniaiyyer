@@ -59,11 +59,8 @@
   <img width="8"/>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/></a>
   <img width="8"/>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/></a>
   <img width="8"/>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3js" width="45" height="45"/></a>
-  <img width="8"/>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/></a>
   <img width="8"/>
  </a>
 </p>
