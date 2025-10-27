@@ -8,7 +8,7 @@
 
 <h2 align="left"> About Me </h2>
 
-- 🔭 I work on **AI Engineering for Knowledge Graphs.**
+- 🔭 My current interests are  **AI Engineering for Knowledge Graphs.**
 
 - 🌱 I’m learning **RLHF and Backend Development**.
 
